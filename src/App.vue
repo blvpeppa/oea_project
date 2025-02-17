@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Orthadox East Africa"/>
-  <h1>Welcome to Orthadox East Africa</h1>
+  <h1>Welcome sano to Orthadox East Africa</h1>
 </template>
 
 <script>
