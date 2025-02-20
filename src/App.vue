@@ -65,7 +65,7 @@
         <div class="container">
           <div class="carousel-caption">
             <h1>TODAY IN BUKOBA</h1>
-            <p>Some representative placeholder content for the second slide of the carousel.</p>
+            <p>BISHOP  chrisostomos in bukoba in seremony of babptism.</p>
             <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
           </div>
         </div>
